@@ -1,4 +1,4 @@
 # learn-git
-Resources to learn Git
+Resources to learn Git.
 
 https://try.github.io/
